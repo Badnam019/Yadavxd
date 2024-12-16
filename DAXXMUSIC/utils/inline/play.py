@@ -69,17 +69,17 @@ def stream_markup_timer(_, chat_id, played, dur):
         [
             InlineKeyboardButton(
                 text="✪sᴜᴘᴘᴏʀᴛ✪",
-                url=f"https://t.me/PURVI_SUPPORT",
+                url=f"@SYSTEM_SUPPROT_GROUP",
             ),
             InlineKeyboardButton(
                 text="✪ᴄʜᴀᴛ✪",
-                url=f"https://t.me/CRAZY_OP_02",
+                url=f"@SYSTEM_SUPPROT_GROUP",
             ),
         ],
         [
             InlineKeyboardButton(
                 text="✪ᴏᴡɴᴇʀ✪",
-                url=f"t.me/ll_THUNDER_lll",
+                url=f"t.me/lll_BADNAM_BABY_lll",
             ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -102,14 +102,14 @@ def stream_markup(_, chat_id):
 
                 text="✪sᴜᴘᴘᴏʀᴛ✪",
 
-                url=f"https://t.me/PURVI_SUPPORT",
+                url=f"@SYSTEM_SUPPROT_GROUP",
 
             ),
             InlineKeyboardButton(
 
                 text="✪ᴄʜᴀᴛ✪",
 
-                url=f"https://t.me/CRAZY_OP_02",
+                url=f"@SYSTEM_SUPPROT_GROUP",
 
             ),
         ],
@@ -119,7 +119,7 @@ def stream_markup(_, chat_id):
 
                 text="✪ᴏᴡɴᴇʀ✪",
 
-                url=f"t.me/ll_THUNDER_lll",
+                url=f"t.me/lll_BADNAM_BABY_lll",
 
             ),
         ],
